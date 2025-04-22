@@ -144,7 +144,7 @@ To build the project, you can use the provided `makefile` (`makefile`).
 1.  **Navigate to the project directory:**
 
     ```bash
-    cd /home/shaheer/Downloads/solution/fin_solution/
+    cd ~/LMS
     ```
 
 2.  **Compile the code:**
